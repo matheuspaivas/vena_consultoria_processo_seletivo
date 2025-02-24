@@ -1,0 +1,8 @@
+pandas
+pyarrow
+google-cloud-storage
+google-cloud-bigquery
+openpyxl
+xlsxwriter
+pyyaml
+dotenv
